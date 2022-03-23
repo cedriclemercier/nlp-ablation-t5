@@ -1,2 +1,6 @@
-# T5 Ablation
-Study of T5
+# NLP Ablation Studies with Xsum and T5
+
+
+## Folder Structure
+
+* `experiments`: Folder for draft codes and experiments
