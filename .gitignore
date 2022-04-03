@@ -1,3 +1,4 @@
 experiments/outputs
+experiments/outputs_with_truncation
 transformer-model.pt
 .ipynb_checkpoints
